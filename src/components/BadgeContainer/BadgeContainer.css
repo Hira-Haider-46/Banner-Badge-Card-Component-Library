@@ -1,0 +1,7 @@
+.badge-container {
+    display: flex;
+    gap: 15px;
+    margin: auto;
+    width: 44%;
+    margin-top: 1em;
+}

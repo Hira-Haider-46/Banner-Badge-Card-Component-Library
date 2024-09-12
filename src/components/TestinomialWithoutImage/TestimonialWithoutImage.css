@@ -1,0 +1,39 @@
+.Testimonial {
+    border: 2px solid #f8f9fa;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: space-around;
+    padding: 5em 2em;
+    margin: 2em auto;
+    width: 80%;
+    /* height: 300px; */
+}
+
+.logo {
+    width: auto; 
+    height: 32px;
+}
+
+.quote1 {
+    font-size: 1.2rem;
+    font-weight: 500;
+    color: #111827; 
+    width: 55%;
+    text-align: center;
+    line-height: 28px;
+    margin: 2em 0;
+}
+
+.author1 {
+    font-size: 1rem;
+    font-weight: 500;
+    color: #111827; 
+}
+
+.position1 {
+    font-size: 1rem;
+    font-weight: 400;
+    color: #6B7280; 
+    margin-left: 0.5em;
+}

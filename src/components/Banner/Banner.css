@@ -1,0 +1,51 @@
+.banner {
+    display: flex;
+    padding: 1em;
+    border-radius: 5px;
+    margin-bottom: 0.5em;
+    width: 49%;
+}
+
+.banner .icon {
+    margin-right: 0.5em;
+    font-size: 1.2rem;
+}
+
+.text-box .title {
+    font-weight: 600;
+    font-size: 0.8rem;
+}
+
+.text-box .text {
+    margin-top: 0.5em;
+    font-weight: 400;
+    font-size: 0.8rem;
+}
+
+.success {
+    background-color: #ECFDF5;
+    color: #065F46;
+}
+
+.warning {
+    background-color: #FFFBEB;
+    color: #92400E;
+}
+
+.error {
+    background-color: #FEF2F2;
+    color: #92400E;
+}
+
+.neutral {
+    background-color: #EFF6FF;
+    color: #1E40AF;
+}
+
+.multiline .text {
+    display: block;
+}
+
+.singleline .text {
+    display: none;
+}
